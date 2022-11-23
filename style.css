@@ -1,0 +1,64 @@
+#hlikes{
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid rgb(112, 110, 110);
+    margin: 40px;
+    text-align: center;
+    border-radius: 5px;
+}
+.hlike{
+    color: bisque;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: left;
+}
+#likes{
+    margin: 70px;
+    color: blueviolet;
+    text-align: left;
+}
+.my-likes{
+    color: palevioletred;
+    font-size: 20px;
+    text-align: center;
+}
+#food{
+    color: rgb(240, 129, 26);
+}
+#reading{
+    color: rgb(3, 3, 87);
+}
+#hdislikes{
+    background-color: rgb(226, 64, 43);
+    color: white;
+    border: 1px solid rgb(112, 110, 110);
+    margin: 40px;
+    text-align: center;
+    border-radius: 5px;
+}
+.hdislike{
+    color: bisque;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: left;
+}
+#dislikes{
+    margin: 70px;
+    color: blueviolet;
+    text-align: left;
+}
+.my-dislikes{
+    color: rgb(218, 16, 83);
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+}
+#stress{
+    color: red;
+    font-weight: 600;
+}
+#noise{
+    color: rgb(13, 141, 62);
+}

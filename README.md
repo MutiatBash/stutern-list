@@ -1,0 +1,1 @@
+styling lists items to understand inheritance
